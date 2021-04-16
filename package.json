@@ -1,0 +1,27 @@
+{
+  "name": "tactile-exercises",
+  "version": "1.0.0",
+  "description": "Fun exercises in order to remmeber and not forget",
+  "main": "./src/lazyDri.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladLimbean/Exercises.git"
+  },
+  "author": "Vlad Limbean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladLimbean/Exercises/issues"
+  },
+  "homepage": "https://github.com/VladLimbean/Exercises#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.5",
+    "typescript": "^4.2.4",
+    "unexpected": "^12.0.0"
+  }
+}
